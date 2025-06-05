@@ -27,7 +27,7 @@ How to Run
 Clone repository:
 
 bash
-git clone https://github.com/tolo017/CryptoBuddy.git
+git clone [https://github.com/tolo017/CryptoBuddy.git]
 Execute script:
 
 bash
